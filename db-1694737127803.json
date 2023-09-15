@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Sidnei",
+      "email": "sdn@boy.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "jusaro",
+      "email": "ju@boy.com",
+      "senha": "234567"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Clipes",
+      "descricao": "de papel , tamanho grande",
+      "validade": "2024-12-31",
+      "valor": 15.69
+    }
+  ]
+}
